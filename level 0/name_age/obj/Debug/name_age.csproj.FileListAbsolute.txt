@@ -1,0 +1,6 @@
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\name_age\bin\Debug\name_age.exe.config
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\name_age\bin\Debug\name_age.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\name_age\bin\Debug\name_age.pdb
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\name_age\obj\Debug\name_age.csproj.CoreCompileInputs.cache
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\name_age\obj\Debug\name_age.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\name_age\obj\Debug\name_age.pdb

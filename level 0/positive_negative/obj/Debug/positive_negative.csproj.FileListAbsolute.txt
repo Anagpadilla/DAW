@@ -1,0 +1,7 @@
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\obj\Debug\positive_negative.csproj.AssemblyReference.cache
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\obj\Debug\positive_negative.csproj.CoreCompileInputs.cache
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\bin\Debug\positive_negative.exe.config
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\bin\Debug\positive_negative.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\bin\Debug\positive_negative.pdb
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\obj\Debug\positive_negative.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\positive_negative\obj\Debug\positive_negative.pdb

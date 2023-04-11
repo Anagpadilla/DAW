@@ -1,0 +1,6 @@
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\sum\bin\Debug\sum.exe.config
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\sum\bin\Debug\sum.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\sum\bin\Debug\sum.pdb
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\sum\obj\Debug\sum.csproj.CoreCompileInputs.cache
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\sum\obj\Debug\sum.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\sum\obj\Debug\sum.pdb

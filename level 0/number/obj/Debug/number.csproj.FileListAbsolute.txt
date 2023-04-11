@@ -1,0 +1,6 @@
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\number\obj\Debug\number.csproj.CoreCompileInputs.cache
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\number\bin\Debug\number.exe.config
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\number\bin\Debug\number.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\number\bin\Debug\number.pdb
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\number\obj\Debug\number.exe
+C:\Users\anagp\OneDrive - GSD Educación\Desktop\DAW\PROGRAMACIÓN\number\obj\Debug\number.pdb
